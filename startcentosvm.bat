@@ -1,0 +1,1 @@
+c:/run/vbox.bat startvm centos --type headless
